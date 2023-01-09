@@ -1,0 +1,17 @@
+section{
+    background: linear-gradient(to bottom right, #4f68d8 50%, #becf21);
+    padding: 10px 0;
+    width: 95%;
+    height: 100vh;
+    margin: auto;
+    
+}
+#clook, #date{
+text-align: center;
+margin: 50px;
+color: rgb(235, 231, 229);
+}
+.abc{
+    display: block;
+    margin: 100px auto;
+}
